@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/happaycart/static/css/main.1150a30b.chunk.css",
+    "main.js": "/happaycart/static/js/main.0e0b819d.chunk.js",
+    "main.js.map": "/happaycart/static/js/main.0e0b819d.chunk.js.map",
+    "runtime-main.js": "/happaycart/static/js/runtime-main.de536f42.js",
+    "runtime-main.js.map": "/happaycart/static/js/runtime-main.de536f42.js.map",
+    "static/js/2.2977db6e.chunk.js": "/happaycart/static/js/2.2977db6e.chunk.js",
+    "static/js/2.2977db6e.chunk.js.map": "/happaycart/static/js/2.2977db6e.chunk.js.map",
+    "static/js/3.39d1b29b.chunk.js": "/happaycart/static/js/3.39d1b29b.chunk.js",
+    "static/js/3.39d1b29b.chunk.js.map": "/happaycart/static/js/3.39d1b29b.chunk.js.map",
+    "index.html": "/happaycart/index.html",
+    "static/css/main.1150a30b.chunk.css.map": "/happaycart/static/css/main.1150a30b.chunk.css.map",
+    "static/js/2.2977db6e.chunk.js.LICENSE.txt": "/happaycart/static/js/2.2977db6e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de536f42.js",
+    "static/js/2.2977db6e.chunk.js",
+    "static/css/main.1150a30b.chunk.css",
+    "static/js/main.0e0b819d.chunk.js"
+  ]
+}
